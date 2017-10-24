@@ -1,0 +1,7 @@
+C:\Users\Rait\source\repos\02_Homework\01_suure_või_väiksem\obj\Debug\01_suure_või_väiksem.csprojResolveAssemblyReference.cache
+C:\Users\Rait\source\repos\02_Homework\01_suure_või_väiksem\obj\Debug\01_suure_või_väiksem.csproj.CoreCompileInputs.cache
+C:\Users\Rait\source\repos\02_Homework\01_suure_või_väiksem\bin\Debug\01_suure_või_väiksem.exe.config
+C:\Users\Rait\source\repos\02_Homework\01_suure_või_väiksem\bin\Debug\01_suure_või_väiksem.exe
+C:\Users\Rait\source\repos\02_Homework\01_suure_või_väiksem\bin\Debug\01_suure_või_väiksem.pdb
+C:\Users\Rait\source\repos\02_Homework\01_suure_või_väiksem\obj\Debug\01_suure_või_väiksem.exe
+C:\Users\Rait\source\repos\02_Homework\01_suure_või_väiksem\obj\Debug\01_suure_või_väiksem.pdb

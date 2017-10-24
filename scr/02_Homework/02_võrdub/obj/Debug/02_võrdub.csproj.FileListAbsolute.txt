@@ -1,0 +1,6 @@
+C:\Users\Rait\source\repos\02_Homework\02_võrdub\bin\Debug\02_võrdub.exe.config
+C:\Users\Rait\source\repos\02_Homework\02_võrdub\bin\Debug\02_võrdub.exe
+C:\Users\Rait\source\repos\02_Homework\02_võrdub\bin\Debug\02_võrdub.pdb
+C:\Users\Rait\source\repos\02_Homework\02_võrdub\obj\Debug\02_võrdub.csproj.CoreCompileInputs.cache
+C:\Users\Rait\source\repos\02_Homework\02_võrdub\obj\Debug\02_võrdub.exe
+C:\Users\Rait\source\repos\02_Homework\02_võrdub\obj\Debug\02_võrdub.pdb

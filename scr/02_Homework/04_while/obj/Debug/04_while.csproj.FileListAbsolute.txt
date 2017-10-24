@@ -1,0 +1,6 @@
+C:\Users\Rait\source\repos\02_Homework\04_while\bin\Debug\04_while.exe.config
+C:\Users\Rait\source\repos\02_Homework\04_while\bin\Debug\04_while.exe
+C:\Users\Rait\source\repos\02_Homework\04_while\bin\Debug\04_while.pdb
+C:\Users\Rait\source\repos\02_Homework\04_while\obj\Debug\04_while.csproj.CoreCompileInputs.cache
+C:\Users\Rait\source\repos\02_Homework\04_while\obj\Debug\04_while.exe
+C:\Users\Rait\source\repos\02_Homework\04_while\obj\Debug\04_while.pdb

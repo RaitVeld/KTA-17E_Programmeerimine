@@ -1,0 +1,6 @@
+C:\Users\Rait\source\repos\02_Homework\03_random\bin\Debug\03_random.exe.config
+C:\Users\Rait\source\repos\02_Homework\03_random\bin\Debug\03_random.exe
+C:\Users\Rait\source\repos\02_Homework\03_random\bin\Debug\03_random.pdb
+C:\Users\Rait\source\repos\02_Homework\03_random\obj\Debug\03_random.csproj.CoreCompileInputs.cache
+C:\Users\Rait\source\repos\02_Homework\03_random\obj\Debug\03_random.exe
+C:\Users\Rait\source\repos\02_Homework\03_random\obj\Debug\03_random.pdb
