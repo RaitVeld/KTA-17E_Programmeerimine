@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_while", "04_while\04_whi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_while(true)", "05_while(true)\05_while(true).csproj", "{AB39B0F3-D5CA-4B1B-AFCB-D8E68F7097A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_count_tries", "06_count_tries\06_count_tries.csproj", "{8CC540EA-74F1-4612-A9D1-39B5FD849DBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AB39B0F3-D5CA-4B1B-AFCB-D8E68F7097A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB39B0F3-D5CA-4B1B-AFCB-D8E68F7097A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB39B0F3-D5CA-4B1B-AFCB-D8E68F7097A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC540EA-74F1-4612-A9D1-39B5FD849DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC540EA-74F1-4612-A9D1-39B5FD849DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC540EA-74F1-4612-A9D1-39B5FD849DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC540EA-74F1-4612-A9D1-39B5FD849DBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\02_Homework\06_count_tries\bin\Debug\06_count_tries.exe.config
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\02_Homework\06_count_tries\bin\Debug\06_count_tries.exe
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\02_Homework\06_count_tries\bin\Debug\06_count_tries.pdb
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\02_Homework\06_count_tries\obj\Debug\06_count_tries.csproj.CoreCompileInputs.cache
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\02_Homework\06_count_tries\obj\Debug\06_count_tries.exe
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\02_Homework\06_count_tries\obj\Debug\06_count_tries.pdb
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\02_Homework\06_count_tries\obj\Debug\06_count_tries.csprojResolveAssemblyReference.cache
