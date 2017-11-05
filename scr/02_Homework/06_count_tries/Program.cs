@@ -13,7 +13,7 @@ namespace _06_count_tries
             Random lamp = new Random();
             int cnum = lamp.Next(1, 101);
             int num = 0;
-            int tnum = 0;
+            
 
             Console.WriteLine("Valin suvaliselt ühe numbri vahemikus [1-100]. Proovi ära arvata");
 

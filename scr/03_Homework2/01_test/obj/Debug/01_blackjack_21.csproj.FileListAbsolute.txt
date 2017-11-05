@@ -1,0 +1,7 @@
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\03_Homework2\01_test\obj\Debug\01_blackjack_21.csprojResolveAssemblyReference.cache
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\03_Homework2\01_test\obj\Debug\01_blackjack_21.csproj.CoreCompileInputs.cache
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\03_Homework2\01_test\obj\Debug\01_test.exe
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\03_Homework2\01_test\obj\Debug\01_test.pdb
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\03_Homework2\01_test\bin\Debug\01_test.exe.config
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\03_Homework2\01_test\bin\Debug\01_test.exe
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\03_Homework2\01_test\bin\Debug\01_test.pdb
