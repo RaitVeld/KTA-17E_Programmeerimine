@@ -1,7 +1,0 @@
-C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\03_Homework2\01_test1\bin\Debug\01_test1.exe.config
-C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\03_Homework2\01_test1\bin\Debug\01_test1.exe
-C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\03_Homework2\01_test1\bin\Debug\01_test1.pdb
-C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\03_Homework2\01_test1\obj\Debug\01_test1.csprojResolveAssemblyReference.cache
-C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\03_Homework2\01_test1\obj\Debug\01_test1.csproj.CoreCompileInputs.cache
-C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\03_Homework2\01_test1\obj\Debug\01_test1.exe
-C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\03_Homework2\01_test1\obj\Debug\01_test1.pdb
