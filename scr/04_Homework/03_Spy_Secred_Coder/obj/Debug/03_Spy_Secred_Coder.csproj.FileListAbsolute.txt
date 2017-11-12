@@ -1,0 +1,7 @@
+C:\Users\Rait\source\repos\04_Homework\03_Spy_Secred_Coder\bin\Debug\03_Spy_Secred_Coder.exe.config
+C:\Users\Rait\source\repos\04_Homework\03_Spy_Secred_Coder\bin\Debug\03_Spy_Secred_Coder.exe
+C:\Users\Rait\source\repos\04_Homework\03_Spy_Secred_Coder\bin\Debug\03_Spy_Secred_Coder.pdb
+C:\Users\Rait\source\repos\04_Homework\03_Spy_Secred_Coder\obj\Debug\03_Spy_Secred_Coder.csprojResolveAssemblyReference.cache
+C:\Users\Rait\source\repos\04_Homework\03_Spy_Secred_Coder\obj\Debug\03_Spy_Secred_Coder.csproj.CoreCompileInputs.cache
+C:\Users\Rait\source\repos\04_Homework\03_Spy_Secred_Coder\obj\Debug\03_Spy_Secred_Coder.exe
+C:\Users\Rait\source\repos\04_Homework\03_Spy_Secred_Coder\obj\Debug\03_Spy_Secred_Coder.pdb

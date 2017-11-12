@@ -1,0 +1,7 @@
+C:\Users\Rait\source\repos\04_Homework\01_test\bin\Debug\01_test.exe.config
+C:\Users\Rait\source\repos\04_Homework\01_test\bin\Debug\01_test.exe
+C:\Users\Rait\source\repos\04_Homework\01_test\bin\Debug\01_test.pdb
+C:\Users\Rait\source\repos\04_Homework\01_test\obj\Debug\01_test.csprojResolveAssemblyReference.cache
+C:\Users\Rait\source\repos\04_Homework\01_test\obj\Debug\01_test.csproj.CoreCompileInputs.cache
+C:\Users\Rait\source\repos\04_Homework\01_test\obj\Debug\01_test.exe
+C:\Users\Rait\source\repos\04_Homework\01_test\obj\Debug\01_test.pdb
