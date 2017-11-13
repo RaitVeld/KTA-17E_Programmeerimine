@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\01_Tunnikontroll\bin\Debug\01_Tunnikontroll.exe.config
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\01_Tunnikontroll\bin\Debug\01_Tunnikontroll.exe
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\01_Tunnikontroll\bin\Debug\01_Tunnikontroll.pdb
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\01_Tunnikontroll\obj\Debug\01_Tunnikontroll.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\01_Tunnikontroll\obj\Debug\01_Tunnikontroll.exe
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\01_Tunnikontroll\obj\Debug\01_Tunnikontroll.pdb

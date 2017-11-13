@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\02_Exercise\bin\Debug\02_Exercise.exe.config
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\02_Exercise\bin\Debug\02_Exercise.exe
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\02_Exercise\bin\Debug\02_Exercise.pdb
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\02_Exercise\obj\Debug\02_Exercise.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\02_Exercise\obj\Debug\02_Exercise.exe
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\02_Exercise\obj\Debug\02_Exercise.pdb
