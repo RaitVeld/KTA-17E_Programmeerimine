@@ -1,0 +1,5 @@
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\04_Excercise\bin\Debug\04_Excercise.exe.config
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\04_Excercise\bin\Debug\04_Excercise.exe
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\04_Excercise\bin\Debug\04_Excercise.pdb
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\04_Excercise\obj\Debug\04_Excercise.exe
+C:\Users\opilane\Desktop\KTA-17E_Programmeerimine\scr\05_schoolwork\04_Excercise\obj\Debug\04_Excercise.pdb
