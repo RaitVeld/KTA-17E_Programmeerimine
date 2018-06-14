@@ -1,6 +1,0 @@
-C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\test2\bin\Debug\test2.exe.config
-C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\test2\bin\Debug\test2.exe
-C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\test2\bin\Debug\test2.pdb
-C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
-C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\test2\obj\Debug\test2.exe
-C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\test2\obj\Debug\test2.pdb
