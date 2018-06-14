@@ -1,0 +1,6 @@
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\06_homework\03_test2\bin\Debug\03_test2.exe.config
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\06_homework\03_test2\bin\Debug\03_test2.exe
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\06_homework\03_test2\bin\Debug\03_test2.pdb
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\06_homework\03_test2\obj\Debug\03_test2.csproj.CoreCompileInputs.cache
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\06_homework\03_test2\obj\Debug\03_test2.exe
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\06_homework\03_test2\obj\Debug\03_test2.pdb

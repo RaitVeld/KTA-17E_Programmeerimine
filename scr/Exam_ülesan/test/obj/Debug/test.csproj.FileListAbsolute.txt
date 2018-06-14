@@ -1,0 +1,7 @@
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\test\bin\Debug\test.exe.config
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\test\bin\Debug\test.exe
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\test\bin\Debug\test.pdb
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\test\obj\Debug\test.exe
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\test\obj\Debug\test.pdb

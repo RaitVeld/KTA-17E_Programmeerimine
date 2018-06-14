@@ -1,0 +1,2 @@
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\06_homework\03_blackjack\obj\Debug\03_blackjack.csprojResolveAssemblyReference.cache
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\06_homework\03_blackjack\obj\Debug\03_blackjack.csproj.CoreCompileInputs.cache

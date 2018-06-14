@@ -1,0 +1,7 @@
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\01_Ülesanne\bin\Debug\01_Ülesanne.exe.config
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\01_Ülesanne\bin\Debug\01_Ülesanne.exe
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\01_Ülesanne\bin\Debug\01_Ülesanne.pdb
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\01_Ülesanne\obj\Debug\01_Ülesanne.csprojResolveAssemblyReference.cache
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\01_Ülesanne\obj\Debug\01_Ülesanne.csproj.CoreCompileInputs.cache
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\01_Ülesanne\obj\Debug\01_Ülesanne.exe
+C:\Users\Rait\Desktop\KTA-17E_Programmeerimine\scr\Exam_ülesan\01_Ülesanne\obj\Debug\01_Ülesanne.pdb
